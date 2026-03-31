@@ -61,13 +61,10 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=TharushiSandeepani&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TharushiSandeepani&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharushiSandeepani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharushiSandeepani&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TharushiSandeepani&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
