@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Tharushi Fernando 👋</h1>
-<h3 align="center">Data Analyst | Backend Developer | Quality Assurance Professional</h3>
+<h3 align="center">Data Analyst | Quality Assurance Professional</h3>
 
 <br/>
 
