@@ -68,3 +68,6 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TharushiSandeepani&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
